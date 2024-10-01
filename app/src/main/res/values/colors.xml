@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="primary_musgo">#8A9A5B</color>
+    <color name="primary_dark">#556B2F</color>
+
 </resources>
