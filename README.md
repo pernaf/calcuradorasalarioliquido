@@ -1,19 +1,30 @@
-# Calculadora IMC
-Desc
+# Calculadora Salário Líquido
+Esse projeto refere-se a um aplicativo android nativo desenvolvido com a linguagem de programação Kotlin, e tem como a principal funcionalidade realizar o cáculo para que uma pessoa saiba o seu salário líquido mensal. 
 
 ## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
-Screenshots
+<img src= "https://github.com/user-attachments/assets/f8cbcaf5-2a05-4be5-b1e8-b24a1c85e7b5" width = 160 /> 
+<img src= "https://github.com/user-attachments/assets/363b89e3-096d-46c3-8008-6cbb6f078392" width = 160 /> 
+
 
 ## Tecnologias
-Techs
+- Activity
+- Intent
+- SnackBar
+- ViewGroups
+   - LinearLayout
+   - ConstraintLayout
+- Views
+   - ImageView
+   - TextView
+   - EditText
+   - Button
 
 
 ## License
 ```
 The MIT License (MIT)
 
-Copyright (c) 2023 Roque Buarque Junior
+Copyright (c) 2024 Gabriel de Oliveira Carvalho
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
